@@ -1,0 +1,41 @@
+package nacho;
+
+public class Cesar {
+
+	static String letters="abcdefghijklmnñopqrstuvwxyz";
+	
+	public static String cifrar(String text) {
+		String encodeText= "";
+		int encodeCharacter;
+		char letter;
+		for(int i=0;i<text.length();i++) {
+			letter=text.charAt(i);
+			if (letter=='x') {
+				encodeCharacter='a';
+			} else {
+				if (letter=='y') {
+					encodeCharacter='b';
+				} else if (letter=='z') {
+					encodeCharacter='c';
+				} else {
+					encodeCharacter=text.charAt(i)+3;
+				}
+			}
+			
+			encodeText=encodeText+(char)encodeCharacter;
+		}
+		return encodeText; 
+	}
+	//posicion%27
+	/* 
+	 public static String cifrar(String text) {
+	 int position;
+	char letter,encodeLetter;
+	for(int i=0;i<text.length();i++) {
+		letter=text.charAt(i);
+		position=
+			}
+	
+	}
+	 */
+}

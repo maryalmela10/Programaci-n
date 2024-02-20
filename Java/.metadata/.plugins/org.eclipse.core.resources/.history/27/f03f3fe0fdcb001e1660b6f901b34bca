@@ -1,0 +1,16 @@
+package Empleados;
+
+import java.util.ArrayList;
+
+public class ListaEmpleados {
+	ArrayList<Empleados> listaEmpleados;
+
+	public ListaEmpleados() {
+		super();
+		this.listaEmpleados = new ArrayList<Empleados>();
+	}
+	
+	listaEmpleados.add(New Empleados(1,"a","b",2000));
+	
+	
+}

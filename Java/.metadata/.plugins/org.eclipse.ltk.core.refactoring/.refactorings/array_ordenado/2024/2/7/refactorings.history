@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;array_ordenado&apos; to &apos;array_grupo/src&apos;&#x0D;&#x0A;- Original project: &apos;array_ordenado&apos;&#x0D;&#x0A;- Destination element: &apos;array_grupo/src&apos;&#x0D;&#x0A;- Original element: &apos;array_ordenado/src/array_ordenado&apos;" description="Copy package" destination="=array_grupo/src" element1="/src&lt;array_ordenado" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1707826097245" version="1.0"/>
+</session>

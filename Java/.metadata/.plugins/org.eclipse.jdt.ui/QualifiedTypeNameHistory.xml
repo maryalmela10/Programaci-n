@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="calculadora.Calculadora"/>
+    <fullyQualifiedTypeName name="clases.Asignatura"/>
+    <fullyQualifiedTypeName name="pokimon.Pokimon"/>
+    <fullyQualifiedTypeName name="pokimon.EntrenadorPokimon"/>
+    <fullyQualifiedTypeName name="pokimon.PokiMochila"/>
+    <fullyQualifiedTypeName name="clases.Profesor"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="ejercicio_Cesar.Cesar"/>
+    <fullyQualifiedTypeName name="nacho.Cesar"/>
+    <fullyQualifiedTypeName name="java.util.regex.Pattern"/>
+    <fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthOptionPaneUI"/>
+    <fullyQualifiedTypeName name="ej_01.NumerosNaturales"/>
+    <fullyQualifiedTypeName name="ej_04.ContadorDigitos"/>
+    <fullyQualifiedTypeName name="prueba.ArrayDemo"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="arrayList.Numeros"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="one.Alpha"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.BeforeAll"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+</qualifiedTypeNameHistroy>

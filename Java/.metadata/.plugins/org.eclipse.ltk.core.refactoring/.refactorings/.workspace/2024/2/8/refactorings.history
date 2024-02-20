@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;tryCatch&apos; to &apos;ficheros_try_catch&apos;&#x0D;&#x0A;- Original element: &apos;tryCatch&apos;&#x0D;&#x0A;- Renamed element: &apos;tryCatch&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;tryCatch&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=tryCatch" name="ficheros_try_catch" references="true" stamp="1708430941934" version="1.0"/>
+</session>

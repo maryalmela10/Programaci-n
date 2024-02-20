@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;s_conversor.Conversor&apos; to &apos;Converter&apos;&#x0D;&#x0A;- Original project: &apos;s_conversor&apos;&#x0D;&#x0A;- Original element: &apos;s_conversor.Conversor&apos;&#x0D;&#x0A;- Renamed element: &apos;s_conversor.Converter&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Conversor&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;s_conversor{Conversor.java[Conversor" matchStrategy="1" name="Converter" qualified="false" references="true" similarDeclarations="false" stamp="1700136106515" textual="false" version="1.0"/>
+</session>

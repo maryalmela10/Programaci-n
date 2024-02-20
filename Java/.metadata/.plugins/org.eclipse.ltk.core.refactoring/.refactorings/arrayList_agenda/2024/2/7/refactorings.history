@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;arrayList_agenda&apos; to &apos;arrayList/src&apos;&#x0D;&#x0A;- Original project: &apos;arrayList_agenda&apos;&#x0D;&#x0A;- Destination element: &apos;arrayList/src&apos;&#x0D;&#x0A;- Original element: &apos;arrayList_agenda/src/arrayList_agenda&apos;" description="Copy package" destination="=arrayList/src" element1="/src&lt;arrayList_agenda" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1707826492080" version="1.0"/>
+</session>

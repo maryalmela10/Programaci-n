@@ -1,0 +1,11 @@
+package Empleados;
+
+public class Main {
+
+	public static void main(String[] args) {
+		ListaEmpleados empresa=new ListaEmpleados();
+		empresa.ordenarPorApellidosNombres();
+		empresa.mostrar();
+	}
+
+}

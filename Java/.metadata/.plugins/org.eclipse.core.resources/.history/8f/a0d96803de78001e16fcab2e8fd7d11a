@@ -1,0 +1,14 @@
+package fecha;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Fecha fecha1;
+		fecha1= new Fecha(31,5,2000);
+		fecha1.siguiente();
+		System.out.println(fecha1);
+	}
+
+}

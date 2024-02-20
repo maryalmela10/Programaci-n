@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;s_buscaPalabras.Palabras.java&apos; to &apos;Words.java&apos;&#x0D;&#x0A;- Original project: &apos;s_buscaPalabras&apos;&#x0D;&#x0A;- Original element: &apos;s_buscaPalabras.Palabras.java&apos;&#x0D;&#x0A;- Renamed element: &apos;s_buscaPalabras.Words.java&apos;" description="Rename compilation unit &apos;Palabras.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;s_buscaPalabras{Palabras.java" name="Words.java" references="false" stamp="1700565100360" version="1.0"/>
+</session>

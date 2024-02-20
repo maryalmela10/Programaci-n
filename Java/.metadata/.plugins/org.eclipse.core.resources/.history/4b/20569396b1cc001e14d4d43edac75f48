@@ -1,0 +1,11 @@
+package interfaz;
+
+import herencia_magos.Personaje;
+
+public interface Personaje {
+
+	public boolean promocionar();
+	public void descansar();
+	public boolean atacar(Personaje personaje);
+	
+}
