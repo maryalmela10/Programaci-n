@@ -1,5 +1,0 @@
-package estadisticas;
-
-public interface Estadistica {
-
-}

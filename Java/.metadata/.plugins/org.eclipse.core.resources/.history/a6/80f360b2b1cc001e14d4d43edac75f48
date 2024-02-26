@@ -1,9 +1,0 @@
-package interfaz;
-
-public interface Personaje {
-
-	boolean promocionar();
-	void descansar();
-	boolean atacar(Personaje personaje);
-	
-}

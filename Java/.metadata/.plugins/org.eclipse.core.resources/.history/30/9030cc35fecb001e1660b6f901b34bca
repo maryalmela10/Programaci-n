@@ -1,6 +1,0 @@
-package Empleados;
-
-public class Main {
-	ListaEmpleados empresa=new ListaEmpleados();
-	
-}
